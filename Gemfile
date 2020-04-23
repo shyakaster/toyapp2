@@ -28,5 +28,5 @@ group :test do
 end
 
 group :production do
-  gem 'sqlite3', '1.4.1'
+  gem 'pg', '1.1.4'
 end
